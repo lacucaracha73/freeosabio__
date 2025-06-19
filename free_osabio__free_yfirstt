@@ -1,0 +1,18 @@
+###################################
+#
+#   F R E E       O S A B I O
+#   F R E E        Y F I R S T
+#
+#  ÇrandomÇ ou %random%    - Aceita qualquer coisa                     | ex.: coisa%random% teste - Caso exista "coisa aleatorio 7384738 teste" vai funcionar
+#  ÇnoÇ ou %no%                    - Nao aceita o que tiver entre eles    | ex.: %no%ban%no% - Caso exista "ban", nao vai funcionar
+#  ÇsiÇ ou %si%                      - So aceita se tiver isso                      | ex.: %si%MAS%si - Caso exista "sala brabissima dos MASTERS" vai funcionar
+#
+#  por padrao, ignora maiusculo ou minusculo, porem pode forcar ser igual com %mm% ou ÇmmÇ
+#  
+###################################
+
+# Filtros
+ÇsiÇÇmmÇ! MIX ÇrandomÇ | ÇrandomÇÇmmÇÇsiÇ
+%si%%mm%! MIX %random% | %random%%mm%%si%
+ÇnoÇÇmmÇdsc.gg/psobrÇmmÇÇnoÇ
+%no%%mm%dsc.gg/psobr%mm%%no%
