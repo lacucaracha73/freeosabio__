@@ -1,18 +1,1 @@
-###################################
-#
-#   F R E E       O S A B I O
-#   F R E E        Y F I R S T
-#
-#  ÇrandomÇ ou %random%    - Aceita qualquer coisa                     | ex.: coisa%random% teste - Caso exista "coisa aleatorio 7384738 teste" vai funcionar
-#  ÇnoÇ ou %no%                    - Nao aceita o que tiver entre eles    | ex.: %no%ban%no% - Caso exista "ban", nao vai funcionar
-#  ÇsiÇ ou %si%                      - So aceita se tiver isso                      | ex.: %si%MAS%si - Caso exista "sala brabissima dos MASTERS" vai funcionar
-#
-#  por padrao, ignora maiusculo ou minusculo, porem pode forcar ser igual com %mm% ou ÇmmÇ
-#  
-###################################
-
-# Filtros
->> ÇsiÇÇmmÇ! MIX ÇrandomÇ | ÇrandomÇÇmmÇÇsiÇ
->> %si%%mm%! MIX %random% | %random%%mm%%si%
->> ÇnoÇÇmmÇdsc.gg/psobrÇmmÇÇnoÇ
->> %no%%mm%dsc.gg/psobr%mm%%no%
+AGVxZmZscGJhamx8fHwAZXFmZnplanFwd3cAZXFmZmxwYmFDbFV8fwNmFGUXeQNpF3N0dANmcmUKbwBhA2kNfxZ/bExxZWV5AGkAcxF0ZmZyZWVvc2FiEG8ZfxYDFHIWZQ1MalhwdHTkNDMrISA+hmImOn96LUIoNioofGZpcnN5dGIlNywxLnMwNygjLio6UWYxKiwqJ2lyc3R0A2ZyZWVvc2FiaW9/f38DZi5lICFoc3IwOz1QJ3c3JCE3Li9sbys6LFcjcmhlGic6PXMxLEo1JiRlbTAuKzoufz4zRicmKjcwKWllYGxgFHVqZTEqIDUna28pPjYDICcrJjApJzMhXncDZpUrKohzLjdpajEwegNmcmVleWZpcnN0dANmcmVlb3Nhb2kBPjB/QiU3LDE4ZiZyIiExAzI7MyA9cyQsPT06fzpPIyFlZXlmNXI2LHoZZncrKmoxICxsITB6fw5mESQ2NmYsKjonIEJmcCckIXFtYicuMH8pQi9yIzA3JSA9PTUmKWVyZYI8OoZiJjp/eixKY3JlZXlmaXJzdHQDZnJlZW9zYWJpb39yf3ApciQmPC89M3MnMQMyOzMgPXMoMTogf39/A2ZyZWV5Zmlyc3R0A2ZyZWVvcz1iLDdxZX8GNTtgCBgVbCE6dHkDBTM2Km82OSs6Oz5/fVAnPiRlOzQoMDonJ0orM2UhICBhDwgcCxoNcGRyMyQwZi8nPTc9TCgzN09sWWJiaT8wLX9TJzY3JDZqaTs0OjtRJ3IoJCYmMiE8IzB/MFZmPywrLDUqJz87eAM2PTcgInMxLS0qfzkwUSUzN2UqIztyOjMhQipyJioic2QvJGp/MCoDgT8oglNlaXJZd3cAZXFmZmxwYmFqbHx8fABlcWZmemVqcXB3dwBlcWZmbHBLSGpvGTYzVzQ9Nk9neGmVID2T5Cs/gmRvHggaaYgtPjFHKT+CZSVmjiAyOjBMK5WCKCKUhjEgiFVhYQNjISxgfCskd3J0GWoecmA3Lj0lLSRqfyN/BjQzKyE2K2x3PjlxBjU7YE9xbWGFJyCYmDJOgTY2JnchLn0jJztBNJUoKIiULy2ORWFhfwYoPWBgNCtsNiA3ekQhfTU2IDEzZyQienoxTGM=
