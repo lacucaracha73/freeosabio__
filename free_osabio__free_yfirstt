@@ -12,7 +12,7 @@
 ###################################
 
 # Filtros
-ÇsiÇÇmmÇ! MIX ÇrandomÇ | ÇrandomÇÇmmÇÇsiÇ
-%si%%mm%! MIX %random% | %random%%mm%%si%
-ÇnoÇÇmmÇdsc.gg/psobrÇmmÇÇnoÇ
-%no%%mm%dsc.gg/psobr%mm%%no%
+>> ÇsiÇÇmmÇ! MIX ÇrandomÇ | ÇrandomÇÇmmÇÇsiÇ
+>> %si%%mm%! MIX %random% | %random%%mm%%si%
+>> ÇnoÇÇmmÇdsc.gg/psobrÇmmÇÇnoÇ
+>> %no%%mm%dsc.gg/psobr%mm%%no%
